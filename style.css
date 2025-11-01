@@ -60,16 +60,10 @@ button {
   align-items: center;
 }
 
-.dd-toggle__icon {
-}
-
 .dd-toggle__img {
   height: 30px;
   width: 30px;
   object-fit: cover;
   border-radius: 50%;
   margin-right: 7px;
-}
-
-.dd-toggle__text {
 }
